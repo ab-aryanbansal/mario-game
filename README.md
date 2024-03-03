@@ -1,2 +1,3 @@
-# mario-game
-a simpler version of mario game using html css and javascript
+# Dino_game
+
+link -> https://amitraheja-co.github.io/Dino_game/
